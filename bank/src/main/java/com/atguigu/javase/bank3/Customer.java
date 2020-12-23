@@ -1,4 +1,4 @@
-package com.atguigu.javase.bank;
+package com.atguigu.javase.bank3;
 
 //创建Customer
 public class Customer {

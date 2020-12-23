@@ -2,7 +2,7 @@ package com.atguigu.javase.bank.test;
 
 import com.atguigu.javase.bank.Account;
 
-public class AccountTest {
+public class AccountTest_1 {
     public static void main(String[] args) {
         Account  account;
 
